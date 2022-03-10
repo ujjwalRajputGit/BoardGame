@@ -1,0 +1,1 @@
+export const BLOCK_SPACE = 20;
